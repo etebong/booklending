@@ -1,0 +1,29 @@
+Instruction on usage:
+The Book Lending System is a Library Management System. It can create and new book, new user (member) in the Library.
+
+To use the system follow the following step
+1. Install Wamp server
+2. Run the Wamp server (username: root; password:"") ie no password
+3. Unpack the zip file then open the Book Lending System folder
+4. Load the booklending.sql file into the server (it is the MySql file for the Application.
+5. Run the booklending jar file from the disks folder of the Boook Lending System folder.
+
+Login Information:
+1.	select login type:
+		for: Admin Login:
+		     password: admin
+		for: Users Login:
+		     username: edidiong
+ 		     password: edidiong
+			
+			or
+		     username: shegun
+		     password: shegun			 	
+
+Users
+
+To view source code:
+1.	Open the Book Lending System
+2.	Open the src folder
+
+
